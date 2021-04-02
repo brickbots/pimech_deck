@@ -1,6 +1,6 @@
-# pimech_deck
+# The PiMech Deck
 A Pi Zero based cyberdeck with low profile mechanical keyboard 
-![aball image](./photos/finished_single.jpeg "The aball")
+![The PiMech Deck](./photos/screen_up_left.jpeg "The PiMech Deck")
 
 
 ## Battery JST polarity!
