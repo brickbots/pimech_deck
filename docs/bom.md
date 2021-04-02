@@ -14,6 +14,7 @@ Quantity|Item|URL
 |1|Lipo Boost/Charging board|https://www.adafruit.com/product/2465
 |36|Choc V1 Lopro Switches|https://mkultra.click/choc-switches
 |36|Keycaps|https://mkultra.click/mbk-choc-keycaps
+|36|Throgh hole diodes|https://keeb.io/products/1n4148-diodes
 |1|Pro Micro - Any will do here
 |1|Laser cut steel plate|sendcutsend.com
 
@@ -27,3 +28,5 @@ https://www.amazon.com/gp/product/B07GLJ7KCJ/
 
 Small metric screws:
 https://www.amazon.com/gp/product/B01FTI8TM8
+
+Lastly, some lengths of wire, headers, shrikwrap, etc will be needed and useful for the build.
