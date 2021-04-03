@@ -8,7 +8,7 @@ Check that business!  Different batteries/charging boards have different JST pin
 Make sure you check your combination and adjust the plug as needed.
 
 
-# This is a new header!
+# Click below for more.....
 * [Build Hints](./docs/overview.md)
 * [Keyboard Details](./docs/keyboard.md)
 * [Parts list (BOM)](./docs/bom.md)
