@@ -27,6 +27,15 @@ Make sure you check your combination and adjust the plug as needed.
 Okay... with that done.....
 
 ## Get the metal plate cut
+
+You can see the plate alone in the photo above. You can choose any material, but I went with
+stainless steel as it's cheap and strong.  To have the switches properly latch into place you'll 
+need to have a thickness around 1.2mm. Too much thicker and the switches won't seat correctly and 
+the plate is the only thing holding them in place.
+
+I use SendCutSend here in the US, and I've heard good things about LaserBoost in Europe.  The file
+is ready to go under /case/plate_v01.dxf.  Scale is in MM if your service asks you to verify.
+
 ## Handwire the keyboard and test it
 ![Keyswitches](../photos/build/kb_switches.jpeg "Low Profile Kailh Choc Switches")
 
