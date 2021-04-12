@@ -15,12 +15,12 @@ homebuilt style of a cyberdeck.  It features:
 This repo has all of the files needed to cut the main structural plate and print up all the 3d parts.
 I'm also including my Fusion 360 file if you want to remix/investigate or otherwise use it.  This is 
 not a complete build guide or how-to as I did not really think about it while building and didn't capture
-some specific details.  I do think the BOM, the few photos I took, and the STL/DXF files should let a 
-anyone intrepid enoug reproduce this design, or even improve it!  
+some specific details.  I do think the BOM, the few photos I took, and the STL/DXF files should let  
+anyone intrepid enough reproduce this design, or even improve it!  
 
 Reach out if you have any questions, I'm happy to help - rich@brickbots.com 
 
-If you build on of these, or something related, I'd love to see it!
+If you build one of these, or something related, I'd love to see it!
 
 
 # Click below for more.....
