@@ -11,7 +11,7 @@ Quantity|Item|URL
 |1|7inch LCD Panel (no touch)|https://www.adafruit.com/product/2353
 |1|40-pin FPC Extension Board + 200mm Cable|https://www.adafruit.com/product/2098
 |1|USB OTG Hub|https://www.amazon.com/gp/product/B01JL837X8
-|1|Battery (4500mah)|https://www.amazon.com/AKZYTUE-4500mAh-Battery-Rechargeable-Connector
+|1|Battery (4500mah)|[https://www.amazon.com/AKZYTUE-4500mAh-Battery-Rechargeable-Connector](https://www.amazon.com/AKZYTUE-4500mAh-Battery-Rechargeable-Connector/dp/B07TXHV3ST)
 |1|Lipo Boost/Charging board|https://www.adafruit.com/product/2465
 |1|SPDT switch|https://www.amazon.com/Qiying-Position-Switch-Solder-SS12F15G3/dp/B08BFB81GD/
 |36|Choc V1 Lopro Switches|https://mkultra.click/choc-switches
